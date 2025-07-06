@@ -1,0 +1,11 @@
+1000%Resim
+1010%Ah�ap Boyama
+1020%Foto�raf��l�k
+1030%Ebru
+1040%Heykel
+1050%Seramik
+1060%Modern Dans
+1070%Tiyatro
+1080%Gitar
+1090%Ba�lama
+1100%Piyano
